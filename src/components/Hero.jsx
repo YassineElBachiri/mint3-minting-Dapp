@@ -24,7 +24,7 @@ const Hero = () => {
   return (
     <div className=" bg-no-repeat bg-cover">
         <div className='flex flex-col justify-center items-center mx-auto py-10'>
-            <div className='flex flex-col justify-center items-center'>
+            <div className='flex flex-col justify-center items-center '>
                 <h1 className="text-white text-5xl font-bold text-center">Arts <br/>
                 <span className="text-gradient">NFTs</span> Collection</h1>
                 <p className="text-white font-semibold text-sm mt-3">

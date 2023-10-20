@@ -11,7 +11,7 @@ const Header = () => {
                 className='w-8 cursor-pointer'
                 src={ethlogo}
                 alt='mint 3.0 Logo'/>
-            <span className='text-white text-2xl ml-2'>Mint 3.0</span>
+            
         </div>
 
         <ul className='md:flex-[0.5] text-white md:flex hidden list-none flex-row justify-between items-center flex-initial'>

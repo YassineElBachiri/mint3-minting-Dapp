@@ -57,28 +57,28 @@ const Hero = () => {
             <a
               className="bg-white hover:scale-50 transition-all 
               duration-75 delay-75 rounded-full mx-2"
-              href="https://github.com/Daltonic"
+              href="https://github.com/YassineElBachiri"
             >
               <img className="w-7 h-7" src={github} alt="Github" />
             </a>
             <a
               className="bg-white hover:scale-50 transition-all 
               duration-75 delay-75 rounded-full mx-2"
-             href="https://www.linkedin.com/in/darlington-gospel-aa626b125"
+             href="https://www.linkedin.com/in/yassine-el-bachiri-020a88170/"
             >
               <img className="w-7 h-7" src={linkedIn} alt="linkedIn" />
             </a>
             <a
               className="bg-white hover:scale-50 transition-all 
               duration-75 delay-75 rounded-full mx-2"
-              href="https://fb.com/darlington.gospel01"
+              href=""
             >
               <img className="w-7 h-7" src={facebook} alt="facebook" />
             </a>
             <a
               className="bg-white hover:scale-50 transition-all 
               duration-75 delay-75 rounded-full mx-2"
-              href="https://twitter.com/idaltonic"
+              href=""
             >
               <img className="w-7 h-7" src={twitter} alt="twitter" />
             </a>

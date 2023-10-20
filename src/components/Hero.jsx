@@ -85,7 +85,7 @@ const Hero = () => {
             <a
               className="bg-white hover:scale-50 transition-all 
               duration-75 delay-75 rounded-full mx-2"
-              href="https://darlingtongospel.medium.com/"
+              href=""
             >
               <img className="w-7 h-7" src={medium} alt="medium" />
             </a>

@@ -17,7 +17,7 @@ const Artworks = ({artworks}) => {
    setNfts(getNfts())
  }, [artworks, end])
   return (
-    <div className="bg-[#212121] py-10">
+    <div className="gradient-bg-artworks py-10">
       <div className="w-4/5 mx-auto">
         <h4 className="text-gradient uppercase text-2xl">Nfts</h4>
 

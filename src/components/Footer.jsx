@@ -24,7 +24,7 @@ const Footer = () => (
       <div className="flex flex-row justify-center items-center mt-2">
         <img src={ethlogo} alt="logo" className="w-8" />
         <span className="text-white text-xs">
-          Adulam (c) 2016 - 2022 With Love ❤️ Daltonic
+          Mint3 (c) 2023 With Love ❤️ YASSINE EL BACHIRI
         </span>
       </div>
     </div>
